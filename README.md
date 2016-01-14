@@ -1,2 +1,2 @@
-# C-_Multithread
+# CPP_Multithread
 C++ multi-thread demo code
