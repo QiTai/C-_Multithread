@@ -5,8 +5,6 @@
 #include <thread>
 using namespace std;
 
-
-
 struct Message{
 	string s;
 	Message(const string& s):s(s){}
